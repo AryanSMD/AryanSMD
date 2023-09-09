@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="[https://github.com/AryanSMD/AryanSMD/assets/143128638/1006e436-9685-4708-b743-73e4a1f38d2a" alt="Loading...">
+<img src="https://github.com/AryanSMD/AryanSMD/assets/143128638/1006e436-9685-4708-b743-73e4a1f38d2a" alt="Loading...">
 
 <!--
 **AryanSMD/AryanSMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
