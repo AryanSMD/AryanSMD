@@ -1,5 +1,4 @@
-### Hi there 👋
-<br>
+# Hi there 👋
 <img src="https://github.com/AryanSMD/AryanSMD/assets/143128638/8b60db29-5a0f-4d77-b504-f9d667a6fbe1" alt="Loading...">
 
 <!--
