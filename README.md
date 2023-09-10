@@ -1,5 +1,5 @@
 # *Hi there, it's AryanSMD* 👋🏻
-<img src="https://github.com/AryanSMD/AryanSMD/assets/143128638/8b60db29-5a0f-4d77-b504-f9d667a6fbe1" alt="Loading...">
+<img src="https://github.com/AryanSMD/AryanSMD/assets/143128638/a7923cf0-7e3c-4fd3-bf77-c5cb92e897d0" alt="Loading...">
 
 ## Technologies that I use
 ### OS:
