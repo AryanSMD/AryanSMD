@@ -2,9 +2,6 @@
 <img src="https://github.com/AryanSMD/AryanSMD/assets/143128638/a7923cf0-7e3c-4fd3-bf77-c5cb92e897d0" alt="Loading...">
 
 ## Technologies that I use
-### OS:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
