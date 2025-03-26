@@ -1,6 +1,6 @@
 # *Hi there, it's AryanSMD* 👋🏻
 <img src="https://github.com/AryanSMD/AryanSMD/assets/143128638/a7923cf0-7e3c-4fd3-bf77-c5cb92e897d0" alt="Loading...">
-#### Detail-oriented Front-End Developer with 3+ years of experience in building responsive and user-friendly web applications using Vue.js and Nuxt.js. Proficient in Vue, Nuxt, TypeScript and Modern Front-End development practices. Passionate about learning new technologies and creating seamless user experiences and optimizing application performance.
+Detail-oriented Front-End Developer with 3+ years of experience in building responsive and user-friendly web applications using Vue.js and Nuxt.js. Proficient in Vue, Nuxt, TypeScript and Modern Front-End development practices. Passionate about learning new technologies and creating seamless user experiences and optimizing application performance.
 
 ## Technologies that I use
 ### Languages:
